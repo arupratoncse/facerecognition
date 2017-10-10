@@ -12,7 +12,7 @@ Installation process
 1. Setup your phone in debugging mode (Settings -> Applications -> Development -> USB debugging).
 2. Connect the phone to your computer via USB (don't select storage mode if the phone asks while connecting USB).
 3. Download DroidCam from android market,install it and open it on your phone. It will show a "Starting server" message.
-4. Download and install the client application in your computer from this project name 
+4. Download and install the client application in your computer from this project softwere name is 'DroidCam.Client.6.0.FullOffline.zip'. 
 5. Start the DroidCam client and choose the "USB" option or button.
 6. The click start button to start camera.
 7. minimize this window and run main.py it will be get input from your android camera.
