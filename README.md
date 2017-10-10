@@ -6,3 +6,4 @@ Installation process
 4. Open cmd in admin mode and write command 'pip install numpy'.
 5. Again open cmd in admin mode and write command 'pip install pillow'.
 6. After install successfully open main.py.
+7.pyqt4 link. https://1drv.ms/u/s!An28lIw5XM5cnEgKF4hML0rQhLLr
